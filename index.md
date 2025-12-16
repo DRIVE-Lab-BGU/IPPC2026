@@ -1,9 +1,9 @@
-<p style="font-size:30px;text-align:center;line-height:100%"><b>Welcome to the International Planning Competition 2023: Probabilistic and Reinforcement Learning Track</b></p>
+<p style="font-size:30px;text-align:center;line-height:100%"><b>Welcome to the International Planning Competition 2026: Probabilistic and Reinforcement Learning Track</b></p>
 
 
 The International Probabilistic Planning Competition is organized in the context of the International Conference on Planning and Scheduling (ICAPS). It empirically evaluates state-of-the-art planning systems on a number of benchmark problems. The goals of the IPC are to promote planning research, highlight challenges in the planning community and provide new and interesting problems as benchmarks for future research.
 
-Since 2004, probabilistic tracks have been part of the IPC under different names (as the International Probabilistic Planning competition or as part of the uncertainty tracks). After 2004, 2006, 2008, 2011, 2014, and 2018, the 7th IPPC will be held in 2023 and conclude together with ICAPS, in July 2023, in Prague (Czech Republic). This time it is organized by Ayal Taitler and Scott Sanner.
+Since 2004, probabilistic tracks have been part of the IPC under different names (as the International Probabilistic Planning competition or as part of the uncertainty tracks). After 2004, 2006, 2008, 2011, 2014, and 2018, the 7th IPPC will be held in 2026 and conclude together with ICAPS, in July 2026, in Prague (Czech Republic). This time it is organized by Ayal Taitler and Scott Sanner.
 
 
 ## Calls
@@ -27,13 +27,13 @@ We invite interested competitors to join the competition discussion:
 |:----------------------------------------------|:-----------------|
 | Infrastructure release with sample domains    | October, 2022    |
 | Call for domains and praticipants             | October, 2022    |
-| Final domains announcement                    | March 2, 2023    |
-| Competitors registration deadline             | March 15, 2023   |
-| Dry-run                                       | April 17, 2023   |
-| Planner abstract dubmission                   | May 1, 2023      |
-| Contest run                                   | June 5-8, 2023   |
-| Final planner abstract dubmission             | June 13, 2023    |
-| Results announced                             | July 11, 2023    |
+| Final domains announcement                    | March 6, 2026    |
+| Competitors registration deadline             | March 20, 2026   |
+| Dry-run                                       | April 19, 2026   |
+| Planner abstract dubmission                   | May 1, 2026      |
+| Contest run                                   | June 1-4, 2023   |
+| Final planner abstract dubmission             | June 12, 2023    |
+| Results announced                             | July 1, 2023    |
 
 
 
