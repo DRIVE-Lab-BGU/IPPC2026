@@ -197,34 +197,37 @@ dt {
 }
 
 header {
-  padding: 30px 20px 40px 20px;
+  padding: 40px 20px 50px 20px;
   margin: 0;
-  position: fixed;
-  top: 0;
-  left:0;
-  right:0;
+  position: relative;
   width: 100%;
-  text-align: center;
+  text-align: left;
   background: linear-gradient(135deg, rgba(2,6,23,0.95), rgba(15,118,110,0.95));
   border-bottom: 1px solid rgba(56, 189, 248, 0.3);
-  box-shadow: 0 15px 35px rgba(3, 7, 18, 0.6);
-  z-index:99;
+  box-shadow: 0 15px 35px rgba(3, 7, 18, 0.4);
   -webkit-font-smoothing:antialiased;
-  min-height: 76px;
   .container {
     max-width: 960px;
     margin: 0 auto;
+  }
+
+  .header-content {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    gap: 8px;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .header-text {
+    flex: 1 1 360px;
   }
 
   .image {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 6px;
+    flex-shrink: 0;
 
     img {
       width: 110px;
@@ -262,7 +265,7 @@ header {
   height: 50px;
   margin-right:-382px;
   position: fixed;
-  top: 115px;
+  top: 220px;
   background: rgba(2, 6, 23, 0.8);
   border: 1px solid rgba(56, 189, 248, 0.3);
   box-shadow: 0px 20px 35px rgba(2,6,23,0.65);
@@ -351,7 +354,7 @@ section {
   width:590px;
   padding: 40px 40px 60px 40px;
   margin: 20px 0;
-  margin-top: 200px;
+  margin-top: 60px;
   position:relative;
   background: var(--panel-bg);
   border-radius: 18px;
@@ -491,7 +494,7 @@ footer {
   section {
     border:1px solid var(--panel-border);
     padding:30px 20px;
-    margin: 190px auto 20px;
+    margin: 80px auto 20px;
     max-width: 640px;
     border-radius: 18px;
     background: rgba(8, 19, 40, 0.95);
@@ -516,6 +519,7 @@ footer {
   header {
     padding:20px 20px;
     margin: 0;
+    text-align: center;
 
     h1 {
       font-size: 32px;
@@ -527,7 +531,15 @@ footer {
     }
 
     .container {
-      gap: 6px;
+      gap: 12px;
+    }
+
+    .header-content {
+      flex-direction: column;
+    }
+
+    .header-text {
+      text-align: center;
     }
 
     .image img {
@@ -539,7 +551,7 @@ footer {
   }
 
   #banner {
-    top: 80px;
+    top: 160px;
 
     .fork {
       float: left;
@@ -552,7 +564,7 @@ footer {
   }
 
   section {
-    margin-top: 140px;
+    margin-top: 80px;
     margin-bottom: 0px;
     width: auto;
     border-radius: 16px;
@@ -571,6 +583,7 @@ footer {
     position: relative;
     padding: 5px 0px;
     min-height: 0px;
+    text-align: center;
 
     h1 {
       font-size: 24px;
@@ -580,13 +593,23 @@ footer {
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
     }
+
+    .header-content {
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .header-text {
+      text-align: center;
+    }
+
     .image img {
       width: 64px;
       height: 64px;
     }
   }
   section {
-    margin-top: 5px;
+    margin-top: 30px;
     border-radius: 12px;
     padding: 25px 18px;
   }
