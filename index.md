@@ -1,18 +1,18 @@
 <p style="font-size:30px;text-align:center;line-height:100%"><b>Welcome to the International Planning <span class="competition-highlight">Competition</span> 2026: Probabilistic and Reinforcement Learning Track</b></p>
 
 
-The International Probabilistic Planning Competition is organized in the context of the International Conference on Planning and Scheduling (ICAPS). It empirically evaluates state-of-the-art planning systems on a number of benchmark problems. The goals of the IPC are to promote planning research, highlight challenges in the planning community and provide new and interesting problems as benchmarks for future research.
+The International Probabilistic Planning Competition is organized in the context of the International Conference on Planning and Scheduling (ICAPS). It empirically evaluates state-of-the-art planning and Learning systems on a number of benchmark problems. The goals of the IPC are to promote research, highlight challenges in the planning community and provide new and interesting problems as benchmarks for future research.
 
-Since 2004, probabilistic tracks have been part of the IPC under different names (as the International Probabilistic Planning competition or as part of the uncertainty tracks). After 2004, 2006, 2008, 2011, 2014, and 2018, the 7th IPPC will be held in 2026 and conclude together with ICAPS, in July 2026, in Prague (Czech Republic). This time it is organized by Ayal Taitler and Scott Sanner.
+Since 2004, probabilistic tracks have been part of the IPC under different names (as the International Probabilistic Planning competition or as part of the uncertainty tracks). After 2004, 2006, 2008, 2011, 2014, 2018, and 2023 the 8th IPPC will be held in 2026 and conclude together with ICAPS, in July 2026, in Dublin (Ireland). This time it is organized by Ayal Taitler Yuval Aroosh and Palash Chatterjee.
 
 
 ## Calls
 Please forward the following calls to all interested parties:
-- [Call for Participation and Domains](/call_email.md)
+- [Call for Domains and Participation](/call_email.md)
 
 <div style="width:100%;text-align:center;">
-  <a href="images/IPPC2023_Graphical_Call_V2.jpg">
-    <img src="images/IPPC2023_Graphical_Call_V2.jpg" height="246" width="190" />
+  <a href="images/IPPC2026_Graphical_Call_V2.jpg">
+    <img src="images/IPPC2026_Graphical_Call_V2.jpg" height="246" width="190" />
   </a>
 </div>
 
@@ -23,17 +23,17 @@ We invite interested competitors to join the competition discussion:
 ## Preliminary Schedule
 
 
-| Event                                         | Date             |
-|:----------------------------------------------|:-----------------|
-| Infrastructure release with sample domains    | October, 2022    |
-| Call for domains and praticipants             | October, 2022    |
-| Final domains announcement                    | March 6, 2026    |
-| Competitors registration deadline             | March 20, 2026   |
-| Dry-run                                       | April 19, 2026   |
-| Planner abstract dubmission                   | May 1, 2026      |
-| Contest run                                   | June 1-4, 2023   |
-| Final planner abstract dubmission             | June 12, 2023    |
-| Results announced                             | July 1, 2023    |
+| Event                                         | Date              |
+|:----------------------------------------------|:------------------|
+| Call for domains and praticipants             | December, 2025    |
+| Domain submission deadline                    | February 13, 2026 |
+| Final domains announcement                    | March 6, 2026     |
+| Competitors registration deadline             | March 20, 2026    |
+| Dry-run                                       | April 19, 2026    |
+| Planner abstract dubmission                   | May 1, 2026       |
+| Contest run                                   | June 1-4, 2023    |
+| Final planner abstract dubmission             | June 12, 2023     |
+| Results announced                             | July 1, 2023     |
 
 
 
