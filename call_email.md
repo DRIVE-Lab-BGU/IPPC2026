@@ -42,5 +42,5 @@ If you have any questions about the competition or participation, please do not 
 
 Ayal Taitler, Ben-Gurion University of the Negev \
 Yuval Aroosh, Ben-Gurion University of the Negev \
-Palash Chatterjee, indiana university bloomington \
+Palash Chatterjee, Indiana University Bloomington \
 ippc2026-rddl@googlegroups.com
