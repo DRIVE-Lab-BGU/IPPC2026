@@ -63,6 +63,15 @@ We provide a sample of RDDL domains along with an evolving list of competition d
     </a>
   </div>
 
+
+  <div style="display:inline-block; margin:5px;">
+    <a href="rover.html">
+      <img src="images/hvac_0.gif" height="190" width="190" />
+      <p style="text-align:center;">HVAC</p>
+    </a>
+  </div>
+
+
   <div style="display:inline-block; margin:5px;">
     <a href="uav.html">
       <img src="images/drones.gif" height="190" width="190" />
