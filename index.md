@@ -150,18 +150,17 @@ Documentation of the generators is available here:
 
 ### Competition Dry-run
 Information will be release soon.
+
 ### Evaluation and Scoring (TBD )
 Information will be release soon.
-
-### Results
 
 
 
 ## Organizers
-- [Ayal Taitler](httpsThe results were presented at the 33rd International Conference on Automated Planning and Scheduling ([ICAPS](https://icaps23.icaps-conference.org/)) on July 11 in Prague. The [presentation slides](/results/IPPC2023_results.pdf) of this talk contain additional details.
-- Yuval Aroosh
-- Palash Chatterjee
+- [Ayal Taitler](https://ataitler.github.io) (Ben-Gurion University of the Negev)
+- [Yuval Aroosh](https://github.com/yuv-989) (Ben-Gurion University of the Negev)
+- [Palash Chatterjee](https://pecey.github.io/) (Indiana University Bloomington)
 ## Advisors
+- [Scott Sanner](https://d3m.mie.utoronto.ca/) (University of Toronto, CA)
 - [Michael Gimelfarb](https://mike-gimelfarb.github.io/) (University of Toronto, CA)
-- [Scoot Sanner]
 Contact us: [ippc2026-rddl@googlegroups.com](https://groups.google.com/g/ippc2026-rddl)
