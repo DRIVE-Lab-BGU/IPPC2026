@@ -56,44 +56,22 @@ pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
 We provide a sample of RDDL domains here and include an updating list of the Competition Domains further below. We encourange the community to contribute user defined domains, or ideas you think the community should be aware of. While not all will be included in this competition, it will help enrich the the problem database, the suitable and mature enough suggestions will be included in the competition.
 
+<div class="image123" style="width:100%; text-align:center;">
 
-<div class="image123" style="center">
-  <div style="float:left;margin-right:5px;">
-        <a href="wildfire.html">
-        <img src="images/wildfire_image.gif" height="190" width="190"  />
-        <p style="text-align:center;">Fire Fighting (from tutorial)</p>
-        </a>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <a href="rover.html">
-        <img src="images/Rover_image2.gif" height="190" width="190"  />
-        <p style="text-align:center;">Mars Rovers Science Mission</p>
-        </a>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <a href="recsim.html">
-        <img class="middle-img" src="images/recsys_loop.gif" height="190" width="190" />
-        <p style="text-align:center;">Recommendation Systems</p>
-        </a>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <a href="powergen.html">
-        <img src="images/power_gen.gif" height="190" width="190" />
-        <p style="text-align:center;">Power Unit Commitment</p>
-        </a>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <a href="uav.html">
-        <img src="images/drones.gif" height="190" width="190" />
-        <p style="text-align:center;">UAV</p>
-        </a>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <a href="elevator.html">
-        <img src="images/elevator2.gif" height="190" width="190" />
-        <p style="text-align:center;">Elevator Control</p>
-        </a>
-    </div>
+  <div style="display:inline-block; margin-right:5px;">
+    <a href="powergen.html">
+      <img src="images/power_gen.gif" height="190" width="190" />
+      <p style="text-align:center;">Power Unit Commitment</p>
+    </a>
+  </div>
+
+  <div style="display:inline-block; margin-right:5px;">
+    <a href="uav.html">
+      <img src="images/drones.gif" height="190" width="190" />
+      <p style="text-align:center;">UAV</p>
+    </a>
+  </div>
+
 </div>
 
 
@@ -132,7 +110,7 @@ ChormaticDice ,CooperativeRecon , EarthObservation,Manufacturer , PushYourLuck ,
 - [IPPC 2023 domains](https://github.com/pyrddlgym-project/rddlrepository/tree/main/rddlrepository/archive/competitions/IPPC2023): This repository contains 8 domains : HVAC ,
 MarsRover ,MountainCar , PowerGen , RaceCar , RecSim , Reservoir , UAV.
 
-this is not right 
+
 The focus of this year’s competition is on continuous and mixed discrete-continuous problems like last year with some change. However, everybody are welcome to take advantage of their existance. All previous competition domains are avilavble through the [rddlrepository](https://github.com/ataitler/rddlrepository) package/git.
 
 
