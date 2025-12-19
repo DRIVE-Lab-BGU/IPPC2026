@@ -92,6 +92,13 @@ We provide a sample of RDDL domains along with an evolving list of competition d
       <p style="text-align:center;">Cart Pole</p>
     </a>
   </div>
+  <div style="display:inline-block; margin:5px;">
+    <a href="rover.html">
+      <img src="images/traffic_0.gif" height="190" width="190" />
+      <p style="text-align:center;">Traffic</p>
+    </a>
+  </div>
+
 
 </div>
 
