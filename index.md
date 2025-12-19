@@ -56,51 +56,45 @@ pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
 We provide a sample of RDDL domains here and include an updating list of the Competition Domains further below. We encourange the community to contribute user defined domains, or ideas you think the community should be aware of. While not all will be included in this competition, it will help enrich the the problem database, the suitable and mature enough suggestions will be included in the competition.
 
+In addition to the original domain, we have recreated some of the classical control domains in RDDL. Illustrating how easy it is to generate domains in pyRDDLSim:
 <div class="image123" style="width:100%; text-align:center;">
 
-  <div style="display:inline-block; margin-right:5px;">
+  <div style="display:inline-block; margin:5px;">
+    <a href="rover.html">
+      <img src="images/Rover_image2.gif" height="190" width="190" />
+      <p style="text-align:center;">Mars Rovers Science Mission</p>
+    </a>
+  </div>
+
+  <div style="display:inline-block; margin:5px;">
     <a href="powergen.html">
       <img src="images/power_gen.gif" height="190" width="190" />
       <p style="text-align:center;">Power Unit Commitment</p>
     </a>
   </div>
 
-  <div style="display:inline-block; margin-right:5px;">
+  <div style="display:inline-block; margin:5px;">
     <a href="uav.html">
       <img src="images/drones.gif" height="190" width="190" />
       <p style="text-align:center;">UAV</p>
     </a>
   </div>
 
+  <div style="display:inline-block; margin:5px;">
+    <a href="reservoir.html">
+      <img src="images/cart_pole.gif" height="190" width="190" />
+      <p style="text-align:center;">Reservoir</p>
+    </a>
+  </div>
+
+  <div style="display:inline-block; margin:5px;">
+    <a href="cartpole.html">
+      <img src="images/cart_pole.gif" height="190" width="190" />
+      <p style="text-align:center;">Cart Pole</p>
+    </a>
+  </div>
+
 </div>
-
-
-<br clear="left">
-
-In addition to the original domain, we have recreated some of the classical control domains in RDDL. Illustrating how easy it is to generate domains in pyRDDLSim:
-
-<div class="image123" style="center">
-    <div style="float:left;margin-right:5px;">
-        <a href="cartpole.html">
-        <img src="images/cart_pole.gif" height="190" width="190"  />
-        <p style="text-align:center;">Cart Pole</p>
-        </a>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <a href="mountaincar.html">
-        <img class="middle-img" src="images/mountain_car.gif" height="190" width="190" />
-        <p style="text-align:center;">Mountain Car</p>
-        </a>
-    </div>
-  <div style="float:left;margin-right:5px;">
-        <a href="racecar.html">
-        <img class="middle-img" src="images/racecar.gif" height="190" width="190" />
-        <p style="text-align:center;">Race Car</p>
-        </a>
-    </div>
-</div>
-
-<br clear="left">
 
 Note, that there are additional domains out there from past competitions (IPPC 2011, IPPC 2014), which can be also be used with pyRDDLSim:
 - [IPPC 2011 domains](https://github.com/pyrddlgym-project/rddlrepository/tree/main/rddlrepository/archive/competitions/IPPC2011): This repository contains 8 domains: Elevators, Cross Traffic (Frogger), Game of Life, Navigation, Reconnaissance, Skill Teaching, SysAdmin, Traffic. 
