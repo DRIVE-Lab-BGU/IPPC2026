@@ -220,7 +220,7 @@ An overall competition score will be computed as an average of normalized domain
 - [Yuval Aroosh](https://github.com/yuv-989) (Ben-Gurion University of the Negev)
 - [Palash Chatterjee](https://pecey.github.io/) (Indiana University Bloomington)
 
-## Advisors
+### Advisors
 - [Scott Sanner](https://d3m.mie.utoronto.ca/) (University of Toronto, CA)
 - [Michael Gimelfarb](https://mike-gimelfarb.github.io/) (University of Toronto, CA)
 
