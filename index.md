@@ -62,7 +62,6 @@ This competition focus is on problems with factored state/action spaces, and dom
 We encourage the community to contribute user-defined domains or propose ideas that may be of interest to the broader community on the lines of the already included problems. Well-motivated and sufficiently mature suggestions may be considered for inclusion in the competition.
 
 ### Competition Domain Examples
-<!--<div class="image123" style="width:100%; text-align:center;">-->
 <div class="image123" style="center">
   
    <div style="float:left;margin-right:5px;">
@@ -71,12 +70,6 @@ We encourage the community to contribute user-defined domains or propose ideas t
         <p style="text-align:center;">Mars Rovers Science Mission</p>
         </a>
     </div>
-  <!--<div style="display:inline-block; margin:5px;">
-    <a href="rover.html">
-      <img src="images/Rover_image2.gif" height="190" width="190" />
-      <p style="text-align:center;">Mars Rovers Science Mission</p>
-    </a>
-  </div>-->
 
   <div style="float:left;margin-right:5px;">
     <a href="rover.html">
@@ -92,7 +85,6 @@ We encourage the community to contribute user-defined domains or propose ideas t
     </a>
   </div>
 </div>
-
 
 ### Classical Control Domain Examples
 
@@ -137,28 +129,9 @@ We encourage the community to contribute user-defined domains or propose ideas t
       <img src="images/drones.gif" height="190" width="190" />
       <p style="text-align:center;">UAV</p>
     </a>
-    </div>
+  </div>
 </div>
 
-  <!--<div style="display:inline-block; margin:5px;">
-    <a href="uav.html">
-      <img src="images/drones.gif" height="190" width="190" />
-      <p style="text-align:center;">UAV</p>
-    </a>
-  </div>
-
-  <div style="display:inline-block; margin:5px;">
-    <a href="cartpole.html">
-      <img src="images/cart_pole.gif" height="190" width="190" />
-      <p style="text-align:center;">Cart Pole</p>
-    </a>
-  </div>
-  <div style="display:inline-block; margin:5px;">
-    <a href="rover.html">
-      <img src="images/traffic_0.gif" height="190" width="190" />
-      <p style="text-align:center;">Traffic</p>
-    </a>
-  </div> -->
 
 
 Note, that there are additional domains out there from past competitions (IPPC 2011, IPPC 2014), which can be also be used with pyRDDLSim:
