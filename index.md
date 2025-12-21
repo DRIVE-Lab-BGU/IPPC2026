@@ -91,10 +91,56 @@ We encourage the community to contribute user-defined domains or propose ideas t
       <p style="text-align:center;">Reservoir</p>
     </a>
   </div>
+</div>
+
 
 ### Classical Control Domain Examples
 
-  <div style="display:inline-block; margin:5px;">
+<div class="image123" style="center">
+    <div style="float:left;margin-right:5px;">
+        <a href="cartpole.html">
+        <img src="images/cart_pole.gif" height="190" width="190"  />
+        <p style="text-align:center;">Cart Pole</p>
+        </a>
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <a href="mountaincar.html">
+        <img class="middle-img" src="images/mountain_car.gif" height="190" width="190" />
+        <p style="text-align:center;">Mountain Car</p>
+        </a>
+    </div>
+  <div style="float:left;margin-right:5px;">
+        <a href="racecar.html">
+        <img class="middle-img" src="images/racecar.gif" height="190" width="190" />
+        <p style="text-align:center;">Race Car</p>
+        </a>
+    </div>
+</div>
+
+### Original RDDL Domain Examples
+
+<div class="image123" style="center">
+    <div style="float:left;margin-right:5px;">
+        <a href="powergen.html">
+          <img src="images/power_gen.gif" height="190" width="190" />
+          <p style="text-align:center;">Power Unit Commitment</p>
+        </a>
+    </div>
+    <div style="float:left;margin-right:5px;">
+      <a href="rover.html">
+        <img src="images/traffic_0.gif" height="190" width="190" />
+        <p style="text-align:center;">Traffic</p>
+      </a>
+    </div>
+  <div style="float:left;margin-right:5px;">
+    <a href="uav.html">
+      <img src="images/drones.gif" height="190" width="190" />
+      <p style="text-align:center;">UAV</p>
+    </a>
+    </div>
+</div>
+
+  <!--<div style="display:inline-block; margin:5px;">
     <a href="uav.html">
       <img src="images/drones.gif" height="190" width="190" />
       <p style="text-align:center;">UAV</p>
@@ -112,10 +158,8 @@ We encourage the community to contribute user-defined domains or propose ideas t
       <img src="images/traffic_0.gif" height="190" width="190" />
       <p style="text-align:center;">Traffic</p>
     </a>
-  </div>
+  </div> -->
 
-
-</div>
 
 Note, that there are additional domains out there from past competitions (IPPC 2011, IPPC 2014), which can be also be used with pyRDDLSim:
 - [IPPC 2011 domains](https://github.com/pyrddlgym-project/rddlrepository/tree/main/rddlrepository/archive/competitions/IPPC2011): This repository contains 8 domains: Elevators, Cross Traffic (Frogger), Game of Life, Navigation, Reconnaissance, Skill Teaching, SysAdmin, Traffic. 
