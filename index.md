@@ -143,7 +143,7 @@ ChormaticDice ,CooperativeRecon , EarthObservation,Manufacturer , PushYourLuck ,
 MarsRover ,MountainCar , PowerGen , RaceCar , RecSim , Reservoir , UAV.
 
 
-The focus of this year’s competition is on continuous and mixed discrete-continuous problems like last year with some change. However, everybody are welcome to take advantage of their existance. All previous competition domains are avilavble through the [rddlrepository](https://github.com/ataitler/rddlrepository) package/git.
+<!--The focus of this year’s competition is on continuous and mixed discrete-continuous problems like last year with some change. However, everybody are welcome to take advantage of their existance. All previous competition domains are avilavble through the [rddlrepository](https://github.com/ataitler/rddlrepository) package/git. -->
 
 
 
@@ -171,6 +171,7 @@ The competition will include:
 |:----------------------|:-----------------------|
 | Reservoir Control     |  Reservoir_continuous  |
 | HVAC                  |  HVAC                  |
+| Mars Rover            |  MarsRover             |
 
 more to come
 
