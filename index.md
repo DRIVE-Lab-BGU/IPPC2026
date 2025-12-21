@@ -46,7 +46,7 @@ This year's competition follow the previous iteration and will be using the gene
 More information about the infrastructure, how to use it and how to add user defined domains can be found the following short guide
 
 <!--- - [Infrastructure guide](/infrastructure.md) --->
-[Infrastructure guide](https://pyrddlgym.readthedocs.io/en/latest/)
+- [Infrastructure guide](https://pyrddlgym.readthedocs.io/en/latest/)
 
 pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
@@ -54,36 +54,50 @@ pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
 
 ## Domains
-We provide a sample of RDDL domains along with an evolving list of competition domains, including several classical control problems recreated in RDDL. We encourage the community to contribute user-defined domains or propose ideas that may be of interest to the broader community. Well-motivated and sufficiently mature suggestions may be considered for inclusion in the competition.
-<div class="image123" style="width:100%; text-align:center;">
+All RDDL domains are being maintained at the:
+[Official RDDL Repository](https://github.com/pyrddlgym-project/rddlrepository)
 
-  <div style="display:inline-block; margin:5px;">
+We provide a sample of RDDL domains, the evolving list of competition domains, along with several classical control problems recreated in RDDL. 
+This competition focus is on problems with factored state/action spaces, and domain structure can be leveraged for problem decomposition, reasoning about scalability, and learning generalizable policies. 
+We encourage the community to contribute user-defined domains or propose ideas that may be of interest to the broader community on the lines of the already included problems. Well-motivated and sufficiently mature suggestions may be considered for inclusion in the competition.
+
+### Competition Domain Examples
+<!--<div class="image123" style="width:100%; text-align:center;">-->
+<div class="image123" style="center">
+  
+   <div style="float:left;margin-right:5px;">
+        <a href="rover.html">
+        <img src="images/Rover_image2.gif" height="190" width="190"  />
+        <p style="text-align:center;">Mars Rovers Science Mission</p>
+        </a>
+    </div>
+  <!--<div style="display:inline-block; margin:5px;">
     <a href="rover.html">
       <img src="images/Rover_image2.gif" height="190" width="190" />
       <p style="text-align:center;">Mars Rovers Science Mission</p>
     </a>
-  </div>
+  </div>-->
 
-
-  <div style="display:inline-block; margin:5px;">
+  <div style="float:left;margin-right:5px;">
     <a href="rover.html">
       <img src="images/hvac_0.gif" height="190" width="190" />
       <p style="text-align:center;">HVAC</p>
     </a>
   </div>
 
+  <div style="float:left;margin-right:5px;">
+    <a href="reservoir.html">
+      <img src="images/reservoir.gif" height="190" width="190" />
+      <p style="text-align:center;">Reservoir</p>
+    </a>
+  </div>
+
+### Classical Control Domain Examples
 
   <div style="display:inline-block; margin:5px;">
     <a href="uav.html">
       <img src="images/drones.gif" height="190" width="190" />
       <p style="text-align:center;">UAV</p>
-    </a>
-  </div>
-
-  <div style="display:inline-block; margin:5px;">
-    <a href="reservoir.html">
-      <img src="images/reservoir.gif" height="190" width="190" />
-      <p style="text-align:center;">Reservoir</p>
     </a>
   </div>
 
