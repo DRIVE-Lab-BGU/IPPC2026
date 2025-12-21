@@ -1,14 +1,21 @@
 # Competition Instance Generators
 
-Instance generators for all 8 competition domains are released for the benefit of the competitors.
+Instance generators for all 8 competition domains will be released for the benefit of the competitors.
 The competition instances (pre-released and unseen) will be generated using theses generators as well.
 
-The generators are included in the distribution of pyRDDLGym under `pyRDDLGym/Examples/InstanceGenerators` and can be accessed directly (via import).
-They can also be accessed through the `ExampleManager` interface for pyRDDLGym version 1.0.4 and above.
+The generators are included in the [Official RDDL Repository](https://github.com/pyrddlgym-project/rddlrepository) in the relevant domain's folder. The exact class can be quaried throught the repository's API.
 
-Once an Example manager object has been instanciated an instance can be generated via the interface:
 
+Once a RDDLRepoManager object has been instanciated an instance can be generated via the interface.
+
+more information on instance generation will be released soon.
+
+<!--
 ```python
+from rddlrepository.core.manager import RDDLRepoManager
+manager = RDDLRepoManager()
+ProblemInfo = manager.get_problem(ENV)
+manager = RDDLRepoManager(rebuild=True)
 EnvInfo = ExampleManager.GetEnvInfo(env)
 EnvInfo.generate_instance(name, param, path)
 ```
@@ -98,5 +105,5 @@ params = {
 
 ## Traffic
 ## Cart Pole
-
+-->
 
